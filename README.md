@@ -1,7 +1,7 @@
 ### Hi👋, I'm Gabriel. 👋
 
 ```js
-const aboutMe = {
+const gabriel = {
    pronouns: "he" | "him",
    languages: {
       native: "spanish",
