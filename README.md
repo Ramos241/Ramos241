@@ -16,6 +16,6 @@ puedan mejorar mis habilidades como desarrollador. 🧑‍💻🧑‍💻.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramos241&show_icons=true&locale=en" alt="ramos241" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramos241&" alt="ramos241" /></p>
+
 
 
